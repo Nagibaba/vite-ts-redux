@@ -3,6 +3,9 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+
+  --primary-color: #2980b9;
+  --secondary-color: #f39c12
 }
 
 .logo {

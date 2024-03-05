@@ -1,0 +1,15 @@
+.primary{
+    color: var(--primary-color);
+    border-color: var(--primary-color)
+
+}
+
+.secondary{
+    color: var(--secondary-color);
+    border-color: var(--secondary-color)
+}
+
+.outline{
+    border-width: 1px;
+    border-style: solid;
+}
