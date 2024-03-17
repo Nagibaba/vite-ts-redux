@@ -10,6 +10,7 @@ export const Todo: React.FC = () => {
   useEffect(() => {
     dispatch(getTodos())
   }, [dispatch])
+
   return (
     <div>
       <Text variant="paragraph" isSecondary>
